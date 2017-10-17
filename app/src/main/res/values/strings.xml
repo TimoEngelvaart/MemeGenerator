@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemeGenerator</string>
+    <string name="button_text">Random</string>
+</resources>
